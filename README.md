@@ -26,7 +26,7 @@
 [![](https://visitcount.itsvg.in/api?id=N1cko&icon=2&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 Buy me a coffee
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/dashboard) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dashboard) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
