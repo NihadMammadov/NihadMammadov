@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖥️ Web development<br>⚙️ App development<br>🩻 Kali tool development<br>
+🖥️ Web development<br>⚙️ App development<br>
 
 
 ## 🌐 Socials:
